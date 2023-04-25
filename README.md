@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Izzeeen Alfarra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Izzedeen Alfarra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/7amota"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts"></a>
@@ -16,11 +16,9 @@
 
 <br>
 
-- A passionate Self-taught Fullstack developer
-- Currently learning Mobile Development by Self
-- Personal website under development<!-- - [link](https://www.0xabdulkhalid.ml) -->
-- I’m currently open for an Intern or a new job opportunity, this is under development<!-- -  [my resume](https://read.cv/0xabdulkhalid) -->
-
+- A passionate Self-taught Front-End developer
+- Currently learning Back-End by Self
+- I’m currently open for an Intern or a new job opportunity
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -32,15 +30,15 @@
 
 - **Languages**:
     
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <br>   
     
-- **Back-End Development**:
-
-   ![django](https://img.shields.io/badge/django%20-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white)
-   
+- **Front-End Development**:
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
 	
 - **Cloud Hosting**:
@@ -103,8 +101,8 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/abdulrhman-mohamed-a9595024a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Abdulrhman Mohammed-%2300acee.svg?color=08d7ec&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/izzedeen-a-farra-7169ab21a" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Izzedeen Alfarra-%2300acee.svg?color=08d7ec&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -112,15 +110,15 @@
 
 <li>
 <a href="https://discord.com/channels/@me/953656020620701696" target="_blank">
-<img src="https://img.shields.io/badge/discord:%20%20Thomas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:Izzedeen Alfarra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="bm993508@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Abdulrhman Mohammed-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="ezazozqq123321@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Izzedeen Alfarra-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
