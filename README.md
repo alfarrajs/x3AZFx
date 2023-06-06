@@ -16,8 +16,8 @@
 
 <br>
 
-- A passionate Self-taught Front-End developer
-- Currently learning Back-End by Self
+- A passionate Self-taught Back-end web developer
+- Currently learning Nodejs 
 - I’m currently open for an Intern or a new job opportunity
 <br><br>
 
