@@ -94,7 +94,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/izzedeen-a-farra-7169ab21a" target="_blank">
+<a href="https://www.linkedin.com/in/izzedeen-alfarra-7169ab21a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Izzedeen Alfarra-%2300acee.svg?color=08d7ec&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
