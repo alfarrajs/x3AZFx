@@ -36,6 +36,17 @@
 
 
 <br>
+<br>   
+    
+- **Back-End Development**:
+	
+   ![Nodejs](https://img.shields.io/badge/-node.js-222?logo=nodedotjs&logoColor=green&style=for-the-badge)
+   ![PHP](https://img.shields.io/badge/-php-222?logo=php&logoColor=blue&style=for-the-badge)
+   ![SQL](https://img.shields.io/badge/-SQL-222?logo=mysql&logoColor=orange&style=for-the-badge)
+  ![Expressjs](https://img.shields.io/badge/-express.js-222?logo=express&logoColor=blue&style=for-the-badge)
+
+
+<br>
 
 	
 - **Cloud Hosting**:
