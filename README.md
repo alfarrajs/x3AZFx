@@ -51,7 +51,7 @@
     
 - **Moblie Development**:
 	
-  ![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![Reactjs](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 
 
