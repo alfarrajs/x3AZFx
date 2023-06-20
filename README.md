@@ -8,7 +8,7 @@
 
 <br>
 
-- A passionate Self-taught Back-end web developer
+- A passionate Self-taught Full-Stack  web && mobile  developer
 - Currently learning Nodejs  & Reactjs
 - I’m currently open for an Intern or a new job opportunity
 <br><br>
