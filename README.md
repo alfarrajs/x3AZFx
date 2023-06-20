@@ -102,7 +102,7 @@
 <br>
 
 <li>
-<a href="https://discord.com/channels/@me/953656020620701696" target="_blank">
+<a href="https://discord.com/users/993778906010226749" target="_blank">
 <img src="https://img.shields.io/badge/discord:Izzedeen Alfarra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
