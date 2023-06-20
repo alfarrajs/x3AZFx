@@ -39,10 +39,10 @@
     
 - **Back-End Development**:
 	
-   ![PHP](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![SQL](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![SQL](https://img.shields.io/badge/SQL%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Nodejs](https://img.shields.io/badge/Nodejs%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Express](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Express](https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=for-the-badge&logo=Express&logoColor=pink)
 
 <br>
 <br>   
