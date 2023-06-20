@@ -9,7 +9,7 @@
 <br>
 
 - A passionate Self-taught Back-end web developer
-- Currently learning Nodejs 
+- Currently learning Nodejs  & Reactjs
 - I’m currently open for an Intern or a new job opportunity
 <br><br>
 
