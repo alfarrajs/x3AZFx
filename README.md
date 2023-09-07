@@ -57,8 +57,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/x3azfx/x3azfx/output/snake.svg" alt="Snake animation" />
 
 ###
