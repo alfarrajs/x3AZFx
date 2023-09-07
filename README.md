@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/x3azfx/output/snake.svg" alt="Snake animation" />
+made with love by @alfarra.js
 
 ###
