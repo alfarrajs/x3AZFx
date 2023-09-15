@@ -19,13 +19,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=x3azfx.x3azfx&"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
@@ -77,13 +71,7 @@
 
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/x3azfx/x3azfx/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
